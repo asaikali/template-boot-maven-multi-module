@@ -5,14 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>template-boot-maven-multi-module</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.example</groupId>
   <artifactId>lib</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>lib</name>
-  <description>common utils</description>
 
   <dependencies>
     <!-- Add library specific dependencies here -->
