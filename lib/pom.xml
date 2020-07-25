@@ -14,13 +14,7 @@
   <name>lib</name>
   <description>common utils</description>
 
-
   <dependencies>
-
-
-
+    <!-- Add library specific dependencies here -->
   </dependencies>
-
-
-
 </project>
